@@ -16,7 +16,7 @@ In this lab, you'll have the opportunity to design a personal webpage. The conte
 
 ## Instructions
 
-To complete this lab, you will need replace the `p` selector to another selector that selects the correct element so that your page matches the example.
+To complete this lab, you will need to replace the `p` selector with another selector that selects the correct element so that your page matches the example.
 
 You are free to add additional `class` and `id` attributes to assist with selecting the correct element. Otherwise the HTML is complete and you do not need to add or remove elements.
 
